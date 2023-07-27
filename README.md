@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramesesluis777
 - 👀 I’m interested in cars and music
-- 🌱 I’m currently learning coding on c++
+- 🌱 I’m currently learning coding on py
 - 📫 How to reach me: ramesesluis@gmail.com
 
 <!---
