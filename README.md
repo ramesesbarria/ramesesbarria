@@ -1,3 +1,4 @@
+<h1 align="center">Computer Science Student</h1>
 <h2 align="center">occasionally chronically lazy</h2>
 
 ###
