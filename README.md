@@ -1,8 +1,7 @@
 <h2 align="center">wassup nerds</h2>
 
 ###
-
-<p align="center">[ compsci - <3 cars and music - dolce far niente ]</p>
+<a href="https://imgur.com/34rbrHP"><img src="https://i.imgur.com/34rbrHP.gif" title="source: imgur.com" /></a>
 
 ###
 
