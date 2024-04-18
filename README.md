@@ -1,5 +1,5 @@
-<h2 align="left">Rameses Barria</h2>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/LofagFj" data-context="false" ><a href="//imgur.com/a/LofagFj">github</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<h2 align="center">Rameses Barria</h2>
+
 ###
 
 <div align="center">
@@ -36,17 +36,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ramesesluis">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ramesesluis&count=7&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ramesesluis777/ramesesluis777/output/snake.svg" alt="Snake animation" />
 
 ###
