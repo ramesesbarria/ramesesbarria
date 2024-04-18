@@ -47,6 +47,8 @@
   <a href="https://www.facebook.com/ramesesluis/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Rameses%20barria&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesesluis777&label=Profile%20views&color=0e75b6&style=flat" alt="ramesesluis777" /> </p>
+
 </div>
 
 ###
