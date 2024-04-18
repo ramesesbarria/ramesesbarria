@@ -1,5 +1,8 @@
 ###
-<a href="https://imgur.com/34rbrHP"><img src="https://i.imgur.com/34rbrHP.gif" title="source: imgur.com" /></a>
+<div align="center" style="max-width: 200px;">
+  <a href="https://imgur.com/34rbrHP"><img src="https://i.imgur.com/34rbrHP.gif" title="source: imgur.com" /></a>
+</div>
+
 
 ###
 
