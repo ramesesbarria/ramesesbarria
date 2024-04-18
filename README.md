@@ -1,5 +1,3 @@
-<h2 align="center">wassup nerds</h2>
-
 ###
 <a href="https://imgur.com/34rbrHP"><img src="https://i.imgur.com/34rbrHP.gif" title="source: imgur.com" /></a>
 
