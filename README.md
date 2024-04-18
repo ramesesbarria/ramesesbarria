@@ -1,6 +1,6 @@
 ###
 <div align="center" style="max-width: 150;">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesesluis777&label=Profile%20views&color=0e75b6&style=flat" alt="ramesesluis777" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramesesluis777&label=Profile%20views&color=0e75b6&style=flat" alt="ramesesluis777" /> </p>
   <a href="https://imgur.com/34rbrHP"><img src="https://i.imgur.com/34rbrHP.gif" title="source: imgur.com" /></a>
 </div>
 
