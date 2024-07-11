@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rameses Barria B^)</h1>
 <h3 align="center" >A second year Computer Science student</h2>
 <h3> </h3>
+
 - 🔭 I’m currently working on **expanding my tech stack.**
 
 - 🔭 My goal is to **deepen my development skills in order to be more efficient and effective.**
