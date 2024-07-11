@@ -46,11 +46,10 @@
 ## 📫 Contact Me
 
 <div align="center">
-  <a href="mailto:ramesesluis@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=gmail&label=%E2%80%8E%20&color=D14836&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20ramesesluis@gmail.com&logo=gmail&label=%E2%80%8E%20&color=D14836&logoColor=D14836&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rameses-barria-206171146/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=linkedin&label=%E2%80%8E%20&color=0077B5&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=Rameses%20Barria%E2%80%8E%20&logo=linkedin&label=%E2%80%8E%20&color=0077B5&logoColor=0077B5&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
