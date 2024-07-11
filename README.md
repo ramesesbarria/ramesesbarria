@@ -2,6 +2,17 @@
   <img src="https://komarev.com/ghpvc/?username=ramesesbarria&label=Profile%20views&color=0e75b6&style=flat" alt="ramesesbarria" />
 </div>
 
+<h1 align="center">Hi 👋, I'm Rameses Barria B^)</h1>
+<h3 align="center" >A second year Computer Science student</h2>
+<h3> </h3>
+- 🔭 I’m currently working on **expanding my tech stack.**
+
+- 🔭 My goal is to **deepen my development skills in order to be more efficient and effective.**
+
+- 🔭 I aspire to **continuously learn and grow.**
+
+- ⚡ Fun fact **I love cars!**
+
 ## 📊 GitHub Stats
 
 <div align="center">
