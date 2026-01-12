@@ -2,26 +2,26 @@
   <img src="https://komarev.com/ghpvc/?username=ramesesbarria&label=Profile%20views&color=0e75b6&style=flat" alt="ramesesbarria" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Rameses Barria B^)</h1>
-<h3 align="center" >A second year Computer Science student</h2>
+<h1 align="center">Hi, I'm Rameses Barria B^)</h1>
+<h3 align="center" >A third year Computer Science student</h2>
 <h3> </h3>
 
-- 🔭 I’m currently working on **expanding my tech stack.**
+-  I’m currently working on **expanding my tech stack.**
 
-- 🔭 My goal is to **deepen my development skills in order to be more efficient and effective.**
+-  My goal is to **deepen my development skills in order to be more efficient and effective.**
 
-- 🔭 I aspire to **continuously learn and grow.**
+-  I aspire to **continuously learn and grow.**
 
-- ⚡ Fun fact **I love cars!**
+-  Fun fact **I love cars!**
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramesesbarria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramesesbarria&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&custom_title=Most%20used%20languages" height="150" alt="languages graph" />
 </div>
 
-## 🚀 Skills
+##  Skills
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
@@ -42,7 +42,7 @@
   <img width="12" />
 </div>
 
-## 📫 Contact Me
+##  Contact Me
 
 <div align="center">
     <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20ramesesluis@gmail.com&logo=gmail&label=%E2%80%8E%20&color=D14836&logoColor=D14836&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -52,7 +52,7 @@
   </a>
 </div>
 
-## 🎵 Recently Played on Spotify
+##  Recently Played on Spotify
 
 <div align="center">
   <a href="https://open.spotify.com/user/ramesesluis">
