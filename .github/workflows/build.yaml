@@ -31,8 +31,6 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: ${{ secrets.USER_NAME }}
         run: python today.py
-      - name: Pin image URLs to this commit
-        run: sed -i -E 's|ramesesbarria/[0-9a-f]{40}/|ramesesbarria/'${GITHUB_SHA}'/|g' README.md
       - name: Commit
         run: |-
           git add .
@@ -40,4 +38,8 @@ jobs:
           git config --global user.email "actions-bot@ramesesbarria.github.io"
           git config --global user.name "ramesesbarria/GitHub-Actions-Bot"
           git commit -m "Updated README" -a || echo "No changes to commit"
+          SHA=$(git rev-parse HEAD)
+          sed -i -E "s|ramesesbarria/[0-9a-f]{40}/|ramesesbarria/${SHA}/|g" README.md
+          git add README.md
+          git commit --amend --no-edit || echo "No README change to amend"
           git push
