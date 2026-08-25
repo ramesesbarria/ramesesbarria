@@ -84,9 +84,7 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None, add_loc=0, del
                     node {
                         ... on Repository {
                             nameWithOwner
-                            stargazers {
-                                totalCount
-                            }
+                            stargazerCount
                         }
                     }
                 }
@@ -293,7 +291,7 @@ def stars_counter(data):
     Count total stars in repositories owned by me
     """
     total_stars = 0
-    for node in data: total_stars += node['node']['stargazers']['totalCount']
+    for node in data: total_stars += node['node']['stargazerCount']
     return total_stars
 
 
@@ -369,6 +367,8 @@ def user_getter(username):
     }'''
     variables = {'login': username}
     request = simple_request(user_getter.__name__, query, variables)
+    if request.json()['data']['user'] is None:
+        raise Exception('Failed to get user data: ' + request.text)
     return {'id': request.json()['data']['user']['id']}, request.json()['data']['user']['createdAt']
 
 def follower_getter(username):
