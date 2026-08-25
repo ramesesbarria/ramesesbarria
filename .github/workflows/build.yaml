@@ -41,5 +41,5 @@ jobs:
           SHA=$(git rev-parse HEAD)
           sed -i -E "s|ramesesbarria/[0-9a-f]{40}/|ramesesbarria/${SHA}/|g" README.md
           git add README.md
-          git commit --amend --no-edit || echo "No README change to amend"
+          git commit -m "Pin README URLs" || echo "No README change to commit"
           git push
