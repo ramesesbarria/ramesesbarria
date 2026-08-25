@@ -35,62 +35,62 @@ text, tspan {white-space: pre;}
 <circle cx="67" cy="20" r="6" fill="#27c93f"/>
 <text x="570" y="25" fill="#24292f" text-anchor="middle">rameses@puter — -zsh — 80×24</text>
 <text x="30" y="30" fill="#24292f">
-  <tspan x="15" y="62" class="art1">     ########  ########</tspan>
-  <tspan x="15" y="82" class="art2">     ########  ########</tspan>
-  <tspan x="15" y="102" class="art3">     ########  ########</tspan>
-  <tspan x="15" y="122" class="art4">     ########  ########</tspan>
-  <tspan x="15" y="142" class="art5">     ##     ## ##     ##</tspan>
-  <tspan x="15" y="162" class="art6">     ##     ## ##     ##</tspan>
-  <tspan x="15" y="182" class="art7">     ##     ## ##     ##</tspan>
-  <tspan x="15" y="202" class="art1">     ##     ## ##     ##</tspan>
-  <tspan x="15" y="222" class="art2">     ##     ## ##     ##</tspan>
-  <tspan x="15" y="242" class="art3">     ##     ## ##     ##</tspan>
-  <tspan x="15" y="262" class="art4">     ##     ## ##     ##</tspan>
-  <tspan x="15" y="282" class="art5">     ##     ## ##     ##</tspan>
-  <tspan x="15" y="302" class="art6">     ########  ########</tspan>
-  <tspan x="15" y="322" class="art7">     ########  ########</tspan>
-  <tspan x="15" y="342" class="art1">     ########  ########</tspan>
-  <tspan x="15" y="362" class="art2">     ########  ########</tspan>
-  <tspan x="15" y="382" class="art3">     ##   ##   ##     ##</tspan>
-  <tspan x="15" y="402" class="art4">     ##   ##   ##     ##</tspan>
-  <tspan x="15" y="422" class="art5">     ##   ##   ##     ##</tspan>
-  <tspan x="15" y="442" class="art6">     ##   ##   ##     ##</tspan>
-  <tspan x="15" y="462" class="art7">     ##    ##  ##     ##</tspan>
-  <tspan x="15" y="482" class="art1">     ##    ##  ##     ##</tspan>
-  <tspan x="15" y="502" class="art2">     ##    ##  ##     ##</tspan>
-  <tspan x="15" y="522" class="art3">     ##    ##  ##     ##</tspan>
-  <tspan x="15" y="542" class="art4">     ##     ## ########</tspan>
-  <tspan x="15" y="562" class="art5">     ##     ## ########</tspan>
-  <tspan x="15" y="582" class="art6">     ##     ## ########</tspan>
-  <tspan x="15" y="602" class="art7">     ##     ## ########</tspan>
-  <tspan x="345" y="50" fill="#24292f">rameses@puter</tspan> 
-  <tspan x="345" y="70" fill="#24292f">- System</tspan> --------------------------------------------------------------------------
-  <tspan x="345" y="90" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Windows, macOS, iOS</tspan>
-  <tspan x="345" y="110" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">22 years, 3 months, 23 days</tspan>
-  <tspan x="345" y="130" class="cc">. </tspan><tspan class="key">Powered by</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">macbookpro132020 / RTX 5060 Ti 16GB / Ryzen 5700X</tspan>
-  <tspan x="345" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">VS Code, Jupyter Notebook</tspan>
-  <tspan x="345" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">C/C++, Java, Python, PHP, JS, SQL</tspan>
-  <tspan x="345" y="190" class="cc">. </tspan><tspan class="key">Languages.Web</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">HTML, CSS, React, Tailwind, Bootstrap</tspan>
-  <tspan x="345" y="210" class="cc">. </tspan><tspan class="key">Languages.Backend</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Node.js, Express, RESTful APIs</tspan>
-  <tspan x="345" y="230" class="cc">. </tspan><tspan class="key">Languages.Data</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">SQL, MySQL, phpMyAdmin</tspan>
-  <tspan x="345" y="250" class="cc">. </tspan><tspan class="key">Languages.Automation</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Automation Anywhere (RPA)</tspan>
-  <tspan x="345" y="270" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">English, Cebuano, Tagalog</tspan>
-  <tspan x="345" y="290" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Git, GitHub, Figma, VirtualBox,</tspan>
-  <tspan x="345" y="310" class="cc">. </tspan><tspan class="cc"> .............................. </tspan><tspan class="value">VMware, Arduino, Cisco Packet Tracer</tspan>
-  <tspan x="345" y="330" fill="#24292f">- Hobbies</tspan> -------------------------------------------------------------------------
-  <tspan x="345" y="350" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">setup maxxing &amp; PC building</tspan>
-  <tspan x="345" y="370" class="cc">. </tspan><tspan class="key">Hobbies.Games</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Valorant, RDR2, NBA 2K, War Thunder</tspan>
-  <tspan x="345" y="390" class="cc">. </tspan><tspan class="key">Hobbies.Sports</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">NBA, basketball, football, pickleball</tspan>
-  <tspan x="345" y="410" fill="#24292f">- Contact</tspan> -------------------------------------------------------------------------
-  <tspan x="345" y="430" class="cc">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="cc"> ............... </tspan><a href="mailto:ramesesluis@gmail.com" xlink:href="mailto:ramesesluis@gmail.com"><tspan class="value link">ramesesluis@gmail.com</tspan></a>
-  <tspan x="345" y="450" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................... </tspan><a href="https://www.linkedin.com/in/ramesesbarria777/" xlink:href="https://www.linkedin.com/in/ramesesbarria777/"><tspan class="value link">Rameses Barria</tspan></a>
-  <tspan x="345" y="470" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ....................... </tspan><a href="https://github.com/ramesesbarria" xlink:href="https://github.com/ramesesbarria"><tspan class="value link">ramesesbarria</tspan></a>
-  <tspan x="345" y="490" class="cc">. </tspan><tspan class="key">Spotify</tspan>:<tspan class="cc"> ...................... </tspan><a href="https://open.spotify.com/user/ramesesluis?si=f83d9e42ffbd4174" xlink:href="https://open.spotify.com/user/ramesesluis?si=f83d9e42ffbd4174"><tspan class="value link">pachi</tspan></a>
-  <tspan x="345" y="510" fill="#24292f">- GitHub Stats</tspan> --------------------------------------------------------------------
-  <tspan x="345" y="530" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">21</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">25</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">2</tspan>
-  <tspan x="345" y="550" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">225</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">22</tspan>
-  <tspan x="345" y="570" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">110,751</tspan> ( <tspan class="addColor" id="loc_add">124,743</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">13,992</tspan><tspan class="delColor">--</tspan> )
-  <tspan x="345" y="610" class="promptuser">rameses@puter</tspan> <tspan class="promptpath">~</tspan> <tspan class="value">%</tspan>
+<tspan x="15" y="60" class="art1">      ########  ########</tspan>
+<tspan x="15" y="80" class="art2">      ########  ########</tspan>
+<tspan x="15" y="100" class="art3">      ########  ########</tspan>
+<tspan x="15" y="120" class="art4">      ########  ########</tspan>
+<tspan x="15" y="140" class="art5">      ##     ## ##     ##</tspan>
+<tspan x="15" y="160" class="art6">      ##     ## ##     ##</tspan>
+<tspan x="15" y="180" class="art7">      ##     ## ##     ##</tspan>
+<tspan x="15" y="200" class="art1">      ##     ## ##     ##</tspan>
+<tspan x="15" y="220" class="art2">      ##     ## ##     ##</tspan>
+<tspan x="15" y="240" class="art3">      ##     ## ##     ##</tspan>
+<tspan x="15" y="260" class="art4">      ##     ## ##     ##</tspan>
+<tspan x="15" y="280" class="art5">      ##     ## ##     ##</tspan>
+<tspan x="15" y="300" class="art6">      ########  ########</tspan>
+<tspan x="15" y="320" class="art7">      ########  ########</tspan>
+<tspan x="15" y="340" class="art1">      ########  ########</tspan>
+<tspan x="15" y="360" class="art2">      ########  ########</tspan>
+<tspan x="15" y="380" class="art3">      ##   ##   ##     ##</tspan>
+<tspan x="15" y="400" class="art4">      ##   ##   ##     ##</tspan>
+<tspan x="15" y="420" class="art5">      ##   ##   ##     ##</tspan>
+<tspan x="15" y="440" class="art6">      ##   ##   ##     ##</tspan>
+<tspan x="15" y="460" class="art7">      ##    ##  ##     ##</tspan>
+<tspan x="15" y="480" class="art1">      ##    ##  ##     ##</tspan>
+<tspan x="15" y="500" class="art2">      ##    ##  ##     ##</tspan>
+<tspan x="15" y="520" class="art3">      ##    ##  ##     ##</tspan>
+<tspan x="15" y="540" class="art4">      ##     ## ########</tspan>
+<tspan x="15" y="560" class="art5">      ##     ## ########</tspan>
+<tspan x="15" y="580" class="art6">      ##     ## ########</tspan>
+<tspan x="15" y="600" class="art7">      ##     ## ########</tspan>
+<tspan x="345" y="50" fill="#24292f">rameses@puter</tspan> 
+<tspan x="345" y="70" fill="#24292f">- System</tspan> --------------------------------------------------------------------------
+<tspan x="345" y="90" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Windows, macOS, iOS</tspan>
+<tspan x="345" y="110" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">22 years, 3 months, 23 days</tspan>
+<tspan x="345" y="130" class="cc">. </tspan><tspan class="key">Powered by</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">macbookpro132020 / RTX 5060 Ti 16GB / Ryzen 5700X</tspan>
+<tspan x="345" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">VS Code, Jupyter Notebook</tspan>
+<tspan x="345" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">C/C++, Java, Python, PHP, JS, SQL</tspan>
+<tspan x="345" y="190" class="cc">. </tspan><tspan class="key">Languages.Web</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">HTML, CSS, React, Tailwind, Bootstrap</tspan>
+<tspan x="345" y="210" class="cc">. </tspan><tspan class="key">Languages.Backend</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Node.js, Express, RESTful APIs</tspan>
+<tspan x="345" y="230" class="cc">. </tspan><tspan class="key">Languages.Data</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">SQL, MySQL, phpMyAdmin</tspan>
+<tspan x="345" y="250" class="cc">. </tspan><tspan class="key">Languages.Automation</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Automation Anywhere (RPA)</tspan>
+<tspan x="345" y="270" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">English, Cebuano, Tagalog</tspan>
+<tspan x="345" y="290" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Git, GitHub, Figma, VirtualBox,</tspan>
+<tspan x="345" y="310" class="cc">. </tspan><tspan class="cc"> .............................. </tspan><tspan class="value">VMware, Arduino, Cisco Packet Tracer</tspan>
+<tspan x="345" y="330" fill="#24292f">- Hobbies</tspan> -------------------------------------------------------------------------
+<tspan x="345" y="350" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">setup maxxing &amp; PC building</tspan>
+<tspan x="345" y="370" class="cc">. </tspan><tspan class="key">Hobbies.Games</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Valorant, RDR2, NBA 2K, War Thunder</tspan>
+<tspan x="345" y="390" class="cc">. </tspan><tspan class="key">Hobbies.Sports</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">NBA, basketball, football, pickleball</tspan>
+<tspan x="345" y="410" fill="#24292f">- Contact</tspan> -------------------------------------------------------------------------
+<tspan x="345" y="430" class="cc">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="cc"> ............... </tspan><a href="mailto:ramesesluis@gmail.com" xlink:href="mailto:ramesesluis@gmail.com"><tspan class="value link">ramesesluis@gmail.com</tspan></a>
+<tspan x="345" y="450" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................... </tspan><a href="https://www.linkedin.com/in/ramesesbarria777/" xlink:href="https://www.linkedin.com/in/ramesesbarria777/"><tspan class="value link">Rameses Barria</tspan></a>
+<tspan x="345" y="470" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ....................... </tspan><a href="https://github.com/ramesesbarria" xlink:href="https://github.com/ramesesbarria"><tspan class="value link">ramesesbarria</tspan></a>
+<tspan x="345" y="490" class="cc">. </tspan><tspan class="key">Spotify</tspan>:<tspan class="cc"> ...................... </tspan><a href="https://open.spotify.com/user/ramesesluis?si=f83d9e42ffbd4174" xlink:href="https://open.spotify.com/user/ramesesluis?si=f83d9e42ffbd4174"><tspan class="value link">pachi</tspan></a>
+<tspan x="345" y="510" fill="#24292f">- GitHub Stats</tspan> --------------------------------------------------------------------
+<tspan x="345" y="530" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value" id="repo_data">21</tspan> <tspan class="cc">{</tspan><tspan class="key">Contributed</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value" id="contrib_data">25</tspan><tspan class="cc">}</tspan> <tspan class="cc">|</tspan> <tspan class="key">Stars</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value" id="star_data">2</tspan>
+<tspan x="345" y="550" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value" id="commit_data">225</tspan> <tspan class="cc">|</tspan> <tspan class="key">Followers</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value" id="follower_data">22</tspan>
+<tspan x="345" y="570" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> ...... </tspan><tspan class="value" id="loc_data">110,751</tspan> ( <tspan class="addColor" id="loc_add">124,743</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">13,992</tspan><tspan class="delColor">--</tspan> )
+<tspan x="345" y="610" class="promptuser">rameses@puter</tspan> <tspan class="promptpath">~</tspan> <tspan class="value">%</tspan>
 </text>
 <rect x="518" y="596" width="9" height="16" class="cursor"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 </svg>
