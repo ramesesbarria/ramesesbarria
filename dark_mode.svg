@@ -66,7 +66,7 @@ text, tspan {white-space: pre;}
 <tspan x="345" y="50" fill="#e6edf3">rameses@puter</tspan> 
 <tspan x="345" y="70" fill="#e6edf3">- System</tspan> --------------------------------------------------------------------------
 <tspan x="345" y="90" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Windows, macOS, iOS</tspan>
-<tspan x="345" y="110" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">22 years, 3 months, 23 days</tspan>
+<tspan x="345" y="110" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">22 years, 3 months, 24 days</tspan>
 <tspan x="345" y="130" class="cc">. </tspan><tspan class="key">Powered by</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">macbookpro / RTX 5060 Ti 16GB / Ryzen 5700X</tspan>
 <tspan x="345" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">VS Code, Jupyter Notebook</tspan>
 <tspan x="345" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">C/C++, Java, Python, PHP, JS, SQL</tspan>
