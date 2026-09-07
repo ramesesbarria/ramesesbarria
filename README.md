@@ -1,6 +1,6 @@
 <a href="https://github.com/ramesesbarria/ramesesbarria">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramesesbarria/ramesesbarria/f443718819b8999982a7d5c3454ceeee8886cc98/dark_mode.svg">
-    <img alt="Rameses Barria's GitHub Profile README" src="https://raw.githubusercontent.com/ramesesbarria/ramesesbarria/f443718819b8999982a7d5c3454ceeee8886cc98/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramesesbarria/ramesesbarria/ce8b6d57f54c8ae5662039606d86cc930eba492e/dark_mode.svg">
+    <img alt="Rameses Barria's GitHub Profile README" src="https://raw.githubusercontent.com/ramesesbarria/ramesesbarria/ce8b6d57f54c8ae5662039606d86cc930eba492e/light_mode.svg">
   </picture>
 </a>
