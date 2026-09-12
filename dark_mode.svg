@@ -86,7 +86,7 @@ text, tspan {white-space: pre;}
 <tspan x="345" y="450" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................... </tspan><a href="https://www.linkedin.com/in/ramesesbarria777/" xlink:href="https://www.linkedin.com/in/ramesesbarria777/"><tspan class="value">Rameses Barria</tspan></a>
 <tspan x="345" y="470" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ....................... </tspan><a href="https://github.com/ramesesbarria" xlink:href="https://github.com/ramesesbarria"><tspan class="value">ramesesbarria</tspan></a>
 <tspan x="345" y="490" class="cc">. </tspan><tspan class="key">Spotify</tspan>:<tspan class="cc"> ...................... </tspan><a href="https://open.spotify.com/user/ramesesluis?si=f83d9e42ffbd4174" xlink:href="https://open.spotify.com/user/ramesesluis?si=f83d9e42ffbd4174"><tspan class="value">pachi</tspan></a>
-<tspan x="345" y="570" class="cc">for more information, visit</tspan><tspan class="cc"> ..... </tspan><tspan class="value">https://myportfolio.com/stillcoming</tspan>
+<tspan x="345" y="570" class="cc">for more information, visit</tspan><tspan class="cc"> ..... </tspan><a href="https://ramesesbarria.com" xlink:href="https://ramesesbarria.com"><tspan class="value">https://ramesesbarria.com</tspan></a>
 <tspan x="345" y="610" class="promptuser">rameses@puter</tspan> <tspan class="promptpath">~</tspan> <tspan class="value">%</tspan>
 </text>
 <rect x="518" y="596" width="9" height="16" class="cursor"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
